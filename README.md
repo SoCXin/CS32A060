@@ -13,11 +13,12 @@ V5 A7四核，28nm工艺，在单芯片上集成了双ISP
 
 - V100封装：TFBGA (17mm x 17mm, 0.65mm pitch) 
 
-### V5 V100
+### V5 DV100
 [![sites](docs/DV100.png)](http://www.mcuyun.com)
 
 - DV100封装：TFBGA (14mm x 14mm, 0.5mm pitch)
 
+---
 
 主要特点：双ISP
 
