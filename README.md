@@ -7,19 +7,22 @@
 
 ## [描述](https://github.com/mcuyun/V5/wiki) 
 
-[![sites](docs/V5.png)](http://www.mcuyun.com)
-
 V5 A7四核，28nm工艺，在单芯片上集成了双ISP
+#### V5 V100
+[![sites](docs/V100.png)](http://www.mcuyun.com)
+V100封装：TFBGA (17mm x 17mm, 0.65mm pitch) 
+#### V5 V100
+[![sites](docs/DV100.png)](http://www.mcuyun.com)
+DV100封装：TFBGA (14mm x 14mm, 0.5mm pitch)
+
 
 主要特点：双ISP
 
-功能特点：3xSDIO, 20bit audio CODEC 
+功能特点：3xSDIO
 
-主要短板：DDR频率低 667MHz-800 MHz maximum
+主要短板：处理性能
 
-封装：TFBGA (17x17, 0.65mm pitch) 
-
-#### [docs](docs/README.md)
+#### [docs](docs/)
 
 参考设计和数据手册
 
