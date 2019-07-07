@@ -19,6 +19,11 @@
 - 主要特点：双ISP
 - 功能特点：3xSDIO
 
+
+### 相关资源
+
+[Lindenis SBC](https://github.com/lindenis-org/kernel)
+
 ### [选型建议](https://github.com/sochub)
 
 平台发布比较久远，集成的ISP和内核性能已经开始落后，性价比优势逐渐消失
